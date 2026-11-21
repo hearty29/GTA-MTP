@@ -10,5 +10,4 @@ This is not intended to be a complete reimplementation of GTA: San Andreas. Inst
 [![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg](https://i.imgur.com/H2THNya.jpeg))](http://files.facepunch.com/ziks/2015/April/12/2015-04-12-2011-02.mp4)
 
 
-
-[![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg](https://i.imgur.com/H2THNya.jpeg))]([http://files.facepunch.com/ziks/2015/April/12/2015-04-12-2011-02.mp4](http://files.facepunch.com/layla/2015/April/06/2015-04-06_04-32-12.mp4))
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](http://files.facepunch.com/layla/2015/April/06/2015-04-06_04-32-12.mp4))
